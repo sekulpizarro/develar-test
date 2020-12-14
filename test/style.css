@@ -1,0 +1,30 @@
+div.barra {
+  font-family: 'Space Mono', monospace;
+  font-size: 16px;
+  color: black;
+}
+canvas {
+  border: 1px solid black;
+}
+.invisible {
+  display: none;
+}
+.text-center {
+  text-align: center;
+}
+div {
+  margin: 10px;
+}
+#info {
+  font: 16px 'Lucida Grande', sans-serif;
+}
+.center-block {
+  display: block;
+  margin: auto;
+}
+label {
+  padding-right: 10px;
+  width: 25%;
+  vertical-align: top;
+  font: 16px 'Space Mono', monospace;
+}
